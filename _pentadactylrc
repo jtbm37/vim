@@ -1,7 +1,5 @@
 :nmap K gt
 :nmap J gT
-:iab gmail. jean.tbm@gmail.com
-:iab jtbm. Jean Thiann-Bo Morel
 :js editor.defaultRegister="+"
 :set editor='C:\\Program\ Files\ (x86)\\Vim\\vim73\\gvim.exe -f'
 :set strictfocus+=mail.google.com:laissez-faire
